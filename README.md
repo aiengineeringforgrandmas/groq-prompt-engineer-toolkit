@@ -1,4 +1,4 @@
-## I ❤️ Making AI More Accessible to Beginners! 
+## I ❤️ Making AI More Accessible for Beginners! 
 
 I believe that AI should be accessible to everyone, regardless of their technical background.  The AI Engineering for Grandmas project is a step towards that vision - Gregory Kennedy
 
