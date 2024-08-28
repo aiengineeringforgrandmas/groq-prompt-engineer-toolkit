@@ -1,6 +1,6 @@
-## ❤️ Let's Make AI More Accessible! - Gregory Kennedy
+## ❤️ Let's Make AI More Accessible! 
 
-I believe that AI should be accessible to everyone, regardless of their technical background.  This project is a step towards that vision.  Join me in making AI more accessible and empowering!
+I believe that AI should be accessible to everyone, regardless of their technical background.  This project is a step towards that vision.  Join me in making AI more accessible and empowering! - Gregory Kennedy
 
 ⚡Powered by Groq's cutting-edge LPUs and Meta's Powerful Open Source Llama 3 models
 
