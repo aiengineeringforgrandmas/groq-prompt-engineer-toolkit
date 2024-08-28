@@ -2,7 +2,6 @@
 
 I believe that AI should be accessible to everyone, regardless of their technical background.  This project is a step towards that vision.  Join me in making AI more accessible and empowering!
 
-```markdown
 ![image1 Groq Prompt Engineering Toolkit](https://github.com/user-attachments/assets/b5efbb2b-744e-43ea-b695-69b4c87528ad)
 
 The Groq AI - Prompt Engineering Toolkit is a powerful Streamlit, Python and Groq AI powered application designed to streamline your AI prompt engineering and fine-tuning dataset workflows and to assist you in becoming a Prompt Engineeering Pro! Harness the power of Groq's cutting-edge Llama 3 models to generate high-quality prompts and create synthectic datasets for fine-tuning AI models. - Gregory Kennedy
@@ -260,6 +259,5 @@ We're here to support you on your AI journey.  Feel free to reach out if you enc
 * **LangChains Langsmith:** For developing the LangSmith tracing and observability framework.
 
 **Happy Prompt Engineering!**
-```
 
 
