@@ -1,4 +1,4 @@
-## ❤️ Let's Make AI More Accessible! 
+## I ❤️ Making AI More Accessible! 
 
 I believe that AI should be accessible to everyone, regardless of their technical background.  This project is a step towards that vision.  Join me in making AI more accessible and empowering! - Gregory Kennedy
 
