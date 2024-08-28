@@ -149,6 +149,7 @@ Your app will open in your web browser, ready for you to start exploring!
 ## 🙏 Acknowledgements
 
 * **Groq:** For the powerful and versatile Llama 3 language models.
+* **Meta's Llama 3: The Brainpower Behind the Magic**
 * **Streamlit:** For making it easy to build interactive web applications.
 * **Langchain's Langsmith: Tracing and Observability for LLMs** Tracing and observing the behavior of large language models (LLMs)s.
 
@@ -156,9 +157,9 @@ Your app will open in your web browser, ready for you to start exploring!
 
 Let's explore the key technologies and techniques that power this application.
 
-**1. Groq's Llama 3: The Brainpower Behind the Magic**
+**1. Llama 3: The Brainpower Behind the Magic**
 
-Groq's Llama 3 is a family of large language models (LLMs) developed by Groq.  These models are trained on massive datasets of text and code, enabling them to perform a wide range of tasks, including:
+Llama 3 is a family of large language models (LLMs) developed by Meta.  These models are trained on massive datasets of text and code, enabling them to perform a wide range of tasks, including:
 
 * **Text Generation:**  Write stories, poems, articles, and more.
 * **Code Generation:**  Generate code in various programming languages.
@@ -166,7 +167,7 @@ Groq's Llama 3 is a family of large language models (LLMs) developed by Groq.  T
 * **Question Answering:**  Provide informative answers to questions.
 * **Summarization:**  Condense large amounts of text into concise summaries.
 
-This app leverages the power of Llama 3 to generate prompts and create test data.
+This app leverages the power of Llama 3 to generate prompts and create fine-tuning test data.
 
 **2. Langsmith: Tracing and Observability for LLMs**
 
@@ -218,6 +219,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Want to dive deeper into the technologies behind this project? Here are some helpful resources:
 
 * **Groq:** [https://groq.com/developers](https://groq.com/developers)
+* **Meta's Llama 3: The Brainpower Behind the Magic** [https://llama.meta.com/docs/overview](https://llama.meta.com/docs/overview)
 * **Streamlit Documentation:** [https://docs.streamlit.io/](https://docs.streamlit.io/)
 * **LangSmith Documentation:** [https://docs.langchain.com/docs/ecosystem/integrations/langsmith](https://docs.langchain.com/docs/ecosystem/integrations/langsmith)
 
