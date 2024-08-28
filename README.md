@@ -253,12 +253,12 @@ We're here to support you on your AI journey.  Feel free to reach out if you enc
 
 ## 🙏 Acknowledgements
 
-* **Thank you to the awesome teams at Groq, Streamlit and Langchain!!!:** I extend my gratitude to the amazing teams who have made these project possible:
+* **Thank you to the awesome teams at Groq, Meta's LLama 3, Streamlit and Langchain!!!:** I extend my profound gratitude to the amazing teams who have made these project possible:
 
 * **Groq:** For developing the powerful Llama 3 models.
 * **Streamlit:** For creating an intuitive and user-friendly framework for building web applications.
 * **LangChains Langsmith:** For developing the LangSmith tracing and observability framework.
 
-**Happy Prompt Engineering!**
+**Happy Prompt Engineering! Gregory Kennedy**
 
 
