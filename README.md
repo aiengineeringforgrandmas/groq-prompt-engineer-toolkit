@@ -2,14 +2,11 @@
 
 I believe that AI should be accessible to everyone, regardless of their technical background.  This project is a step towards that vision.  Join me in making AI more accessible and empowering!
 
-![groq-lpu](https://github.com/user-attachments/assets/a1df3918-b523-4993-9dbf-11fd4eef9b92)
-
-
 The Groq AI - Prompt Engineering Toolkit is a powerful Streamlit, Python and Groq AI powered application designed to streamline your AI prompt engineering and fine-tuning dataset workflows and to assist you in becoming a Prompt Engineeering Pro! Harness the power of Groq's cutting-edge Llama 3 models to generate high-quality prompts and create synthectic datasets for fine-tuning AI models. - Gregory Kennedy
 
-⚡Powered by Groq's Llama 3 Models
+![groq-lpu](https://github.com/user-attachments/assets/a1df3918-b523-4993-9dbf-11fd4eef9b92)
 
-![Groq Logo](https://github.com/user-attachments/assets/94266e6c-e626-4226-bba0-e645c51c6a5c)
+⚡Powered by Groq's Llama 3 Models
 
 ## ✨ Key Features
 
