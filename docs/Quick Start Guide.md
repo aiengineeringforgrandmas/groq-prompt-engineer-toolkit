@@ -3,6 +3,8 @@
 ## Table of Contents 📑
 - [1. Introduction](#1-introduction)
 - [2. Setup and Installation](#2-setup-and-installation)
+    - [2.1 Installing Miniconda](#21-installing-miniconda)
+    - [2.2 Creating a Conda Environment](#22-creating-a-conda-environment)
 - [3. User Interface Overview](#3-user-interface-overview)
 - [4. Features ✨](#4-features)
     - [4.1 Generate Prompt ✍️](#41-generate-prompt)
@@ -32,6 +34,49 @@ Key Features:
 ## 2. Setup and Installation <a name="2-setup-and-installation"></a>
 
 To run the AI Prompt Engineer application, you'll need to set up your environment and install the necessary dependencies. 🏗️
+
+### 2.1 Installing Miniconda <a name="21-installing-miniconda"></a>
+
+Miniconda is a minimal installer for Conda, which we'll use to manage our Python environments. 🐍
+
+1. Visit the Miniconda download page: https://docs.conda.io/en/latest/miniconda.html
+2. Download the appropriate installer for your operating system (Windows or macOS).
+3. Open your terminal (Command Prompt for Windows, Terminal for macOS) and navigate to the directory where you downloaded the installer.
+4. Run the following command to make the installer executable:
+
+```bash
+chmod +x Miniconda3-latest-MacOSX-x86_64.sh 
+```
+
+5. Run the installer:
+
+```bash
+./Miniconda3-latest-MacOSX-x86_64.sh
+```
+
+6. Follow the prompts to complete the installation.
+7. Close and reopen Terminal to apply the changes.
+
+### 2.2 Creating a Conda Environment <a name="22-creating-a-conda-environment"></a>
+
+1. Open your terminal (Command Prompt for Windows, Terminal for macOS).
+2. Create a new Conda environment named `streamlit-env` with Python 3.12 (or your preferred version):
+
+```bash
+conda create --name streamlit-env python=3.12
+```
+
+3. Activate the new environment:
+
+```bash
+conda activate streamlit-env
+```
+
+4.  **To deactivate the environment later:**
+
+```bash
+conda deactivate
+```
 
 ### Prerequisites:
 - Python 3.11 or higher 🐍
