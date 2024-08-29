@@ -4,9 +4,6 @@ I believe that AI should be accessible to everyone, regardless of their technica
 
 ⚡Powered by Groq's cutting-edge LPUs and Meta's Powerful Open Source Llama 3 models
 
-![500x500_Llama3_3Llamas_nobg](https://github.com/user-attachments/assets/ea116c54-7362-4137-9a98-151636680ecd)
-
-
 The Groq AI - Prompt Engineering Toolkit is a powerful Streamlit, Python and Groq AI powered application designed to streamline your AI prompt engineering and fine-tuning dataset workflows and to assist you in becoming a Prompt Engineeering Pro! Harness the power of Groq's cutting-edge LPUs and Meta's Powerful Open Source Llama 3 models to generate high-quality prompts and create synthectic datasets for fine-tuning AI models. 
 
 ![image-groq-lpu-transparent-background](https://github.com/user-attachments/assets/ed8e8eb4-2fcc-4320-abbb-e4aa6f67e4ec)
@@ -18,6 +15,9 @@ The Groq AI - Prompt Engineering Toolkit is a powerful Streamlit, Python and Gro
 * **Test Data Generation:**  Create synthetic datasets for fine-tuning your AI models, ensuring they perform optimally.
 * **Multi-Model Support:**  Choose from various Groq Llama 3 models to leverage different capabilities.
 * **User-Friendly Interface:**  Intuitive Streamlit interface makes the app accessible to both beginners and experienced users.
+
+
+![500x500_Llama3_3Llamas_nobg](https://github.com/user-attachments/assets/f65e4aab-6e90-466f-a30e-fc6a15e07a6d)
 
 
 # 🛠️ Tools: Streamlit - Langsmith - Python - Conda - Git
