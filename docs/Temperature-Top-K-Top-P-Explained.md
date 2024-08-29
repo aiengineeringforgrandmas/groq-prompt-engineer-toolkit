@@ -1,3 +1,5 @@
+### Temperature-Top-K-Top-P-Explained
+
 *** Experiment with different parameter values ***
 
 Every time you ask an AI model a question or assign it a task your question or task includes parameter values (hard coded in the code)that control how the model generates a response. The AI model can and will generate different results for different parameter values. Experiment with different parameter values to determine the best values for the task. The most common parameters for AI/LLMs are the following:
