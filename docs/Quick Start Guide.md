@@ -7,6 +7,9 @@
         - [2.1.1 Windows Installation](#211-windows-installation)
         - [2.1.2 MacOS Installation](#212-macos-installation)
     - [2.2 Creating a Conda Environment](#22-creating-a-conda-environment)
+    - [2.3 Getting Your API Keys](#23-getting-your-api-keys)
+        - [2.3.1 Langsmith API Key](#231-langsmith-api-key)
+        - [2.3.2 Groq API Key](#232-groq-api-key)
 - [3. User Interface Overview](#3-user-interface-overview)
 - [4. Features ✨](#4-features)
     - [4.1 Generate Prompt ✍️](#41-generate-prompt)
@@ -80,13 +83,13 @@ chmod +x Miniconda3-latest-MacOSX-x86_64.sh
 2. Create a new Conda environment named `streamlit-env` with Python 3.12 (or your preferred version):
 
 ```bash
-conda create -n gpe-env python=3.12 
+conda create --name streamlit-env python=3.12
 ```
 
 3. Activate the new environment:
 
 ```bash
-conda activate gpe-env 
+conda activate streamlit-env
 ```
 
 4.  **To deactivate the environment later:**
@@ -94,6 +97,26 @@ conda activate gpe-env
 ```bash
 conda deactivate
 ```
+
+### 2.3 Getting Your API Keys <a name="23-getting-your-api-keys"></a>
+
+#### 2.3.1 Langsmith API Key <a name="231-langsmith-api-key"></a>
+
+LangSmith is a tool for observing, debugging, dataset creation, cost analysis, and improving your AI/LLM applications. 
+
+1. Get your Langsmith API Key here: https://smith.langchain.com/
+2. Sign up for a free account or log in if you already have one.
+3. You'll find your API key in your account settings.
+
+#### 2.3.2 Groq API Key <a name="232-groq-api-key"></a>
+
+Groq API Key: This special key allows you to tap into Groq's powerful AI models. 
+
+1. Get your free key at: https://groq.com/developers.
+2. Sign up for a free account or log in if you already have one.
+3. You'll find your API key in your account settings.
+
+**How to use the Groq API Key:** Enter this special key in the left side of the Streamlit frontend UI in order to use the app.
 
 ### Prerequisites:
 - Python 3.11 or higher 🐍
