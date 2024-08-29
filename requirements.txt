@@ -1,1 +1,13 @@
-
+groq
+streamlit 
+streamlit-option-menu 
+streamlit-lottie
+streamlit-extras
+st-annotated_text
+pandas 
+requests
+langsmith
+python-dotenv
+streamlit-float
+PyPDF2
+watchdog # MacOs only
