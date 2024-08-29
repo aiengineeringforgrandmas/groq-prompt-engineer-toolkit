@@ -63,13 +63,13 @@ chmod +x Miniconda3-latest-MacOSX-x86_64.sh
 2. Create a new Conda environment named `streamlit-env` with Python 3.12 (or your preferred version):
 
 ```bash
-conda create --name streamlit-env python=3.12
+conda create -n gpe-env python=3.12 
 ```
 
 3. Activate the new environment:
 
 ```bash
-conda activate streamlit-env
+conda activate gpe-env 
 ```
 
 4.  **To deactivate the environment later:**
