@@ -4,6 +4,8 @@
 - [1. Introduction](#1-introduction)
 - [2. Setup and Installation](#2-setup-and-installation)
     - [2.1 Installing Miniconda](#21-installing-miniconda)
+        - [2.1.1 Windows Installation](#211-windows-installation)
+        - [2.1.2 MacOS Installation](#212-macos-installation)
     - [2.2 Creating a Conda Environment](#22-creating-a-conda-environment)
 - [3. User Interface Overview](#3-user-interface-overview)
 - [4. Features ✨](#4-features)
@@ -39,13 +41,28 @@ To run the AI Prompt Engineer application, you'll need to set up your environmen
 
 Miniconda is a minimal installer for Conda, which we'll use to manage our Python environments. 🐍
 
+#### 2.1.1 Windows Installation <a name="211-windows-installation"></a>
+
 1. Visit the Miniconda download page: https://docs.conda.io/en/latest/miniconda.html
-2. Download the appropriate installer for your operating system (Windows or macOS).
-3. Open your terminal (Command Prompt for Windows, Terminal for macOS) and navigate to the directory where you downloaded the installer.
+2. Download the appropriate installer for your Windows system architecture (32-bit or 64-bit).
+3. Run the downloaded installer.
+4. Follow the installation wizard, using the default options unless you have specific preferences.
+5. **Important:** During installation, make sure to check the box that says "Add Miniconda3 to my PATH environment variable".
+6. After installation, open a new Command Prompt and verify by running:
+
+```bash
+conda --version
+```
+
+#### 2.1.2 MacOS Installation <a name="212-macos-installation"></a>
+
+1. Visit the Miniconda download page: https://docs.conda.io/en/latest/miniconda.html
+2. Download the MacOS installer (choose the appropriate version for your system architecture).
+3. Open Terminal and navigate to the directory where you downloaded the installer.
 4. Run the following command to make the installer executable:
 
 ```bash
-chmod +x Miniconda3-latest-MacOSX-x86_64.sh 
+chmod +x Miniconda3-latest-MacOSX-x86_64.sh
 ```
 
 5. Run the installer:
@@ -63,13 +80,13 @@ chmod +x Miniconda3-latest-MacOSX-x86_64.sh
 2. Create a new Conda environment named `streamlit-env` with Python 3.12 (or your preferred version):
 
 ```bash
-conda create -n gpe-env python=3.12 
+conda create --name streamlit-env python=3.12
 ```
 
 3. Activate the new environment:
 
 ```bash
-conda activate gpe-env 
+conda activate streamlit-env
 ```
 
 4.  **To deactivate the environment later:**
