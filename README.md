@@ -1,5 +1,4 @@
 ![image text groq prompt engineer toolkit](https://github.com/user-attachments/assets/cab53990-da95-4d7b-a7ed-11776d4bc6e3)
-
 ⚡Powered by Groq's cutting-edge LPUs and Meta's Powerful Open Source Llama 3 models
 
 https://github.com/user-attachments/assets/d18ee21e-3689-4f74-ad6e-ea3f26950982
