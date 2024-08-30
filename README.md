@@ -6,11 +6,6 @@ The Groq AI - Prompt Engineering Toolkit is a powerful Streamlit, Python and Gro
 
 ![image text groq prompt engineer toolkit-650p](https://github.com/user-attachments/assets/572b72a2-7e96-4088-b48b-6658edaa5b01)
 
-
-## I ❤️ Making AI More Accessible for Beginners! 
-
-I believe that AI should be accessible to everyone, regardless of their technical background.  The AI Engineering for Grandmas project is a step towards that vision - Gregory Kennedy
-
 ## ✨ Key Features
 
 * **Prompt Generation:** Craft effective prompts for a wide range of tasks, from creative writing to code generation.
