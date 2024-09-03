@@ -1,10 +1,9 @@
 ![image text groq prompt engineer toolkit-650p](https://github.com/user-attachments/assets/572b72a2-7e96-4088-b48b-6658edaa5b01)
 
 ⚡Powered by Groq's cutting-edge LPUs and Meta's Powerful Open Source Llama 3 models
+<a href="https://www.buymeacoffee.com/aiengineeringforgrandmas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 https://github.com/user-attachments/assets/d18ee21e-3689-4f74-ad6e-ea3f26950982
-
-<a href="https://www.buymeacoffee.com/aiengineeringforgrandmas" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 The Groq AI - Prompt Engineering Toolkit is a powerful Streamlit, Python and Groq AI powered application designed to streamline your AI prompt engineering and fine-tuning dataset workflows and to assist you in becoming a Prompt Engineeering Pro! Harness the power of Groq's cutting-edge LPUs and Meta's Powerful Open Source Llama 3 models to generate high-quality prompts and create synthectic datasets for fine-tuning AI models. 
 
