@@ -66,6 +66,7 @@ To run the AI Prompt Engineer application, you'll need to set up your environmen
 3. **Install Cursor:** Run the downloaded installer and follow the prompts.
 4. **Open Cursor:** Once installed, open the application.
 
+![Download the Cursor AI Code Editor](https://github.com/user-attachments/assets/7101362c-79e7-4206-bdf9-4c8b7657c709)
 
 ### 2.2 Installing Miniconda <a name="22-installing-miniconda"></a>
 
