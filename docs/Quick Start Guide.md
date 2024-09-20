@@ -1,5 +1,3 @@
---- START OF FILE # 🤖 AI Prompt Engineer - Quickstart Guide 🚀.txt ---
-
 ﻿# 🤖 AI Prompt Engineer - Quickstart Guide 🚀
 
 
