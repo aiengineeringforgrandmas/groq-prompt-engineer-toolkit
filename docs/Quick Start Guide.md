@@ -58,7 +58,7 @@ Key Features:
 To run the AI Prompt Engineer application, you'll need to set up your environment and install the necessary dependencies. 🏗️
 
 
-### 2.1 Installing Cursor Editor <a name="21-installing-cursor-editor"></a>
+### 2.1 Downlaoding and Installing Cursor Editor <a name="21-installing-cursor-editor"></a>
 
 
 1. **Visit Cursor's website:** https://www.cursor.com/
