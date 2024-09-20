@@ -27,6 +27,9 @@
 - [9. FAQ 🤔](#9-faq)
 - [10. Version History 🕰️](#10-version-history)
 
+  ![App Tree Flow Quick Start](https://github.com/user-attachments/assets/774587c8-88e1-431a-9e34-d8f2fd507b52)
+
+
 ## 1. Introduction <a name="1-introduction"></a>
 
 The AI Prompt Engineer is a powerful Streamlit application designed to assist users in generating effective prompts for AI models and creating datasets for AI fine-tuning. It leverages Groq's Llama 3 AI models to provide advanced language processing capabilities. 🧠
@@ -35,6 +38,9 @@ Key Features:
 - Generate AI/LLM prompts using Chain of Thought (COT) methodology 🧠
 - Generate test datasets for AI model fine-tuning 📊
 - Customizable settings for AI model parameters ⚙️
+
+  ![COT features-selection](https://github.com/user-attachments/assets/408a627f-ad35-49fc-bded-000df5d0cc22)
+
 
 ## 2. Setup and Installation <a name="2-setup-and-installation"></a>
 
@@ -60,27 +66,29 @@ conda --version
 #### 2.1.2 MacOS Installation <a name="212-macos-installation"></a>
 
 1. Visit the Miniconda download page: https://docs.conda.io/en/latest/miniconda.html
-2. Download the MacOS installer (choose the appropriate version for your system architecture).
-3. Open Terminal and navigate to the directory where you downloaded the installer.
-4. Run the following command to make the installer executable:
+2. Download the MacOS installer PKG (choose the appropriate version for your system architecture).
+3. Navigate to the folder where you downloaded the file.
+4. Double click to install the version for Intel or M1,M2,M3 Metal pkg:
 
-```bash
-chmod +x Miniconda3-latest-MacOSX-x86_64.sh
+
+```
+Intel: https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-x86_64.pkg
+Metal: https://repo.anaconda.com/miniconda/Miniconda3-latest-MacOSX-arm64
+
 ```
 
-5. Run the installer:
+5. Follow the prompts to complete the installation:
 
-```bash
-./Miniconda3-latest-MacOSX-x86_64.sh
 ```
-
-6. Follow the prompts to complete the installation.
-7. Close and reopen Terminal to apply the changes.
+Close and reopen the Cursor Terminal to apply the changes.
+```
 
 ### 2.2 Creating a Conda Environment <a name="22-creating-a-conda-environment"></a>
 
 1. Open your terminal (Command Prompt for Windows, Terminal for macOS).
 2. Create a new Conda environment named `streamlit-env` with Python 3.12 (or your preferred version):
+
+![Installing conda](https://github.com/user-attachments/assets/67f134ca-e026-4864-9506-d070431457c8)
 
 ```bash
 conda create --name streamlit-env python=3.12
@@ -103,6 +111,8 @@ conda deactivate
 #### 2.3.1 Langsmith API Key <a name="231-langsmith-api-key"></a>
 
 LangSmith is a tool for observing, debugging, dataset creation, cost analysis, and improving your AI/LLM applications. 
+
+![Langsmith Usage Funnel](https://github.com/user-attachments/assets/beace749-eb78-4a1f-bd68-b1d125504c88)
 
 1. Get your Langsmith API Key here: https://smith.langchain.com/
 2. Sign up for a free account or log in if you already have one.
@@ -209,6 +219,8 @@ The sidebar contains important settings and configuration options:
 
 The  application utilizes Chain of Thought (COT) prompting to generate more effective and detailed AI responses. This approach breaks down complex tasks into logical steps, encouraging the AI model to show its reasoning process. 🧠
 
+![COT Steps](https://github.com/user-attachments/assets/e94ce1bc-8ea1-4acf-9797-8bf88f5376bd)
+
 Key aspects of COT prompting in :
 - Task analysis and breakdown 🔍
 - Incorporation of provided variables 🗃️
@@ -241,6 +253,9 @@ Users can select different versions of the Groq Llama 3 model based on their spe
 - llama3-groq-8b-8192-tool-use-preview: Smaller tool-use model 🧰
 - llama-3.1-8b-instant: Fast and efficient model ⚡️
 - llama-3.1-70b-versatile: Versatile model for various tasks 🦸‍♀️
+
+![Groq Llama3 Model Overview](https://github.com/user-attachments/assets/6a5f65c9-6e14-445d-bb28-a971f97bb440)
+
 
 The application dynamically adjusts its prompting strategy based on the selected model to leverage each version's strengths.
 
